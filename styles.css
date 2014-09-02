@@ -9,6 +9,11 @@ body {
   padding-top: 20px;
 }
 
+p {
+  font-family: impact, charcoal, sans-serif;
+  font-size: 45px;
+}
+
 h1, h2, h3, h4, h5, h6 {
     color: #CC0066
 }
